@@ -5,6 +5,6 @@ namespace R5T.Shrewsbury
 {
     public interface IAppSettingsFilePathProvider
     {
-        string GetAppSettingsFilePath(string appsettingsFileName);
+        string GetAppSettingsFilePath(string appSettingsFileName);
     }
 }
