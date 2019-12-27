@@ -1,4 +1,4 @@
-R5T.Shrewsbury.Base - An appsettings file-name provider service definition base library for the Shrewsbury project.
+R5T.Shrewsbury.Base - An appsettings file-name provider service definition base library for the Shrewsbury project containing appsettings.json file functionality.
 
 Goals
 
